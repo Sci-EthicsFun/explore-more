@@ -1,6 +1,6 @@
 <div>
 <div>
-<p><a href="https://ethicalsciencead-5fwr85kmti.live-website.com/" target="_self" rel="home">Ethical Science Adventures</a></p>
+<p><h2>Ethical Science Adventures</h2></p>
 </div>
 </div>
 <div><header>
